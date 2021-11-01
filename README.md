@@ -1,4 +1,4 @@
-# zabbix_script_show_arp_table
+# zabbix_script_get_arp_table
 
 Display router arp table.
 
