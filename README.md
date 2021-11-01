@@ -4,7 +4,7 @@ Display router arp table.
 
 Output example:
 
-10.214.32.77: 78 19 F7 1D 1D 02
+10.214.32.77: 78 19 F7 1D 1D 02 <br>
 10.214.32.78: B0 C6 9A ED D4 AC 
 10.32.193.121: 78 19 F7 1D 1D 03
 10.32.193.122: 00 58 3F 08 88 FE
